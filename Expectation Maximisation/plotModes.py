@@ -1,3 +1,4 @@
+# Credits : Käs, Stephanie - RWTH Aachen
 from plotGaussian import plotGaussian
 import matplotlib.pyplot as plt
 
