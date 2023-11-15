@@ -1,3 +1,4 @@
+# Credits : Käs, Stephanie - RWTH Aachen
 import numpy as np
 import matplotlib.pyplot as plt
 
